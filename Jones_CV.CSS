@@ -1,0 +1,78 @@
+/* Practice makes perfert; Practicing how to use certain selector on my Digital CV
+body{
+     Background-color: pink;
+}*/
+/*
+li:nth-of-type(2n):hover{
+    background-color: lightpink
+} */
+/*
+ h2{
+    color: white
+}*/
+h1{ 
+    color: rgb(60,135,201)
+}
+body{
+    background-Color: rgb(255, 182, 193)
+}
+body{
+    font-family: 'Times New Roman', Times, serif, verdana;
+    /*font-size: 12px:*/
+}
+h1{
+    text-align: center;
+    font-size: 3rem
+    ;text-shadow: 10px 10px 5px darkblue;
+}
+li:nth-of-type(1n):hover{
+    background: rgb(245, 83, 180)
+}
+/* Made two (h2) had issues with placing them in the same bracket*/
+h2{
+    color: rgb(60,135,201)
+}
+h2{
+    font-size: 1.7rem;
+    text-shadow: 10px 10px 5px darkblue;
+}
+p{
+    color:rgb(50, 133, 168)
+}
+li{
+    color:rgb(50, 133, 168)
+}
+tr{
+    color:rgb(60, 135, 201)
+}
+b{
+    color:rgb(60, 135, 201)
+}
+caption{
+    color:rgb(60, 135, 201)
+}
+label{
+    color:rgb(50, 133, 168)
+}
+form{
+    color:rgb(50, 133, 168)
+}
+a{
+    text-decoration:none;
+}
+form{
+    text-align: center;
+}
+/*
+#photo{
+    width:700px;
+}*/
+img{
+    width: 40%
+    max- width: 350
+    border- width: 1.5em;
+    border-style: dashed solid;
+}
+img{
+    border-color: rgba(50, 133, 168,.7)
+}
